@@ -1,9 +1,16 @@
 {
-    "name": "linomneto-iec-node-js-exc-01",
-    "version": "0.3.0",
-    "description": "PUC IEC - Node JS - Exercicio 01 - linomneto",
-    "main": "app.js",
-    "scripts": {
-      "start": "node app.js"
-    }
+  "name": "linomneto-iec-node-js-exc-01",
+  "version": "0.3.0",
+  "description": "PUC IEC - Node JS - Exercicio 01 - linomneto",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linomneto-iec/node-js-exc-01"
   }
+}
